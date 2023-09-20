@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on various Spring projects (see my repos!)
 - 🌱 I’m currently learning React
-- 🤔 I’m interested in Cybersecurity
+- 🤔 I’m interested in cybersecurity
 - 🧠 My favourite field of CS is Data Structures and Algorithms 
 - 📫 How to reach me: <a href = "mailto: banisomo2003@gmail.com">via my email</a>
 - ⚡ Fun fact: I love playing basketball 🏀 in my spare time!
